@@ -2,7 +2,7 @@
 
 I noticed that the YFT Upper size letters where not printing in the console, from this I infered something was wrong.
 
-##Bug 1
+## Bug 1
 The correct format for adding a new StringBuffer value is not: 
 word = new StringBuffer('Y');
 it is 
